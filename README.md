@@ -43,9 +43,9 @@ This project is a responsive web design for a Porsche-themed website under the b
 - **JavaScript**: Edit `main.js` to customize ScrollReveal animations or add new interactivity.
 
 ## Credits
-- Designed and developed by Web Design Mastery.
+- Designed and developed by Maheen Arif.
 - Icons provided by [Remixicon](https://remixicon.com/).
 - Animations powered by [ScrollReveal](https://scrollrevealjs.org/).
 
 ## License
-Copyright © 2024 Web Design Mastery. All rights reserved.
+Copyright © 2024 Maheen Arif. All rights reserved.
